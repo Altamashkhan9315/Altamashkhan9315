@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Altamash Khan!  
 
 💻 **B.Tech CSE | Full-Stack MERN Developer | AI & ML Enthusiast**  
-🚀 Freelance Developer • Open Source Contributor • Tech Explorer  
+🚀 Freelance Developer • Open Source Contributor • Tech Explorer 
 
 ---
 
@@ -16,7 +16,7 @@
 
 
 ### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)  
 
 ### 🗄️ Database  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
@@ -43,14 +43,6 @@
 *Tech: Node.js, Express.js, MongoDB, Cloudinary*  
 - Travel platform for listing & reviewing destinations.  
 - Secure auth, CRUD, image uploads & maps integration.  
-
-🔹 **Trending Sales (Freelance Project)**  
-*Tech: React, Redux, Node.js, MongoDB*  
-- E-commerce platform for bags, umbrellas, shoes & clothing.  
-
-🔹 **BoysHub Shop (Freelance Project)**  
-*Tech: WordPress, WooCommerce*  
-- Men’s fashion online store.  
 
 🔹 **[Nikshay Foundation](https://nikshayfoundation.org)**  
 *Tech: HTML, CSS, JS, WordPress*  
@@ -92,7 +84,6 @@
 ---
 
 ## 🎯 2025 Goals  
-✔ Build Rent & Resell Luxury Fashion Platform  
 ✔ Contribute to Open Source Projects  
 ✔ Explore Machine Learning & AI Agents  
 
@@ -100,10 +91,7 @@
 
 ## 🌐 Connect With Me  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://altamash.dev)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/altamash-ai)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/altamash_ai)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Altamash-ai)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://portfolio-seven-olive-19.vercel.app/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-altamash-khan/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Altamashkhan9315)  
 
 ---
 
