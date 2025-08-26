@@ -52,19 +52,9 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Altamash-ai&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Altamash-ai&theme=tokyonight" alt="GitHub Streak" height="150"/>  
-</p>  
-
----
-
-## 🔝 Top Languages  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altamash-ai&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>  
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Altamashkhan9315&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=Altamashkhan9315&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Altamashkhan9315&theme=dark&hide_border=false)
 ---
 
 ## 🏆 GitHub Trophies  
