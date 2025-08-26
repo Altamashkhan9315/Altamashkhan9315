@@ -59,10 +59,7 @@
 
 ## 🏆 GitHub Trophies  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Altamash-ai&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="Trophies"/>
-</p>  
-
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---
 
 ## 📈 GitHub Activity Graph  
