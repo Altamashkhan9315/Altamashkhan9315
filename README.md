@@ -26,7 +26,7 @@
 
 ---
 
-##🌟 Highlighted Projects  
+## 🌟 Highlighted Projects  
 
 🔹 **[Gifting Website]((https://gifting-site-frontend.onrender.com/)**  
 *Tech: MERN, CSS, Axios, Razorpay*  
