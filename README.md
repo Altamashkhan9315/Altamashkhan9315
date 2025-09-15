@@ -26,9 +26,9 @@
 
 ---
 
-## 🚀 Featured Projects  
+##🌟 Highlighted Projects  
 
-🔹 **[Gifting Website](https://trendingsales.in)**  
+🔹 **[Gifting Website]((https://gifting-site-frontend.onrender.com/)**  
 *Tech: MERN, CSS, Axios, Razorpay*  
 - Full-stack e-commerce platform for personalized gifts & curated hampers.  
 - Admin dashboard (products, orders, inventory).  
@@ -44,9 +44,7 @@
 - Travel platform for listing & reviewing destinations.  
 - Secure auth, CRUD, image uploads & maps integration.  
 
-🔹 **[Nikshay Foundation](https://nikshayfoundation.org)**  
-*Tech: HTML, CSS, JS, WordPress*  
-- NGO website for campaigns & donations.  
+ 
 
 ---
 
